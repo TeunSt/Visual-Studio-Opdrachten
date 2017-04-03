@@ -11,3 +11,9 @@ In opdracht 3 moest je een kalender toevoegen, in die kalender moet je je naam k
 Opdracht 4:
 als je op de button klikt zie je de datum van vandaag en de tijd van nu,
 je moest ook de uren, minuten en seconden laten weergeven totdat het pasen is.
+
+Opdracht 5:
+Validators toepassen op textboxen, zorgen dat bijde getallen gelijk zijn een validator maken voor een telefoonnummer.
+
+Opdracht 6:
+Grafische rekenmachine ontwerpen en ervoor zorgen dat alle functies werken
